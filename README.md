@@ -12,7 +12,7 @@ This file is used for Kılıç Baran's Course Planner and its forks.
 
 1. Clone this repository:
 ```bash
-    git clone https://github.com/yourusername/boun_course_scraper.git
+    git clone https://github.com/mil3ri/boun_course_scraper.git
     cd boun_course_scraper
 ```
 
